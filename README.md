@@ -41,6 +41,17 @@ Zwischendurch auch Web-Hoster wie **Vercel** und **Kinsta** getestet, aber nie a
 - **3 Helpdesk-Praktika** – 2 Schulpraktika und 1 freiwilliges Praktikum, alle unbezahlt aus Freude am Werk
 - **YouTube & Streaming** – über mehrere Jahre Gaming-Content konsequent hochgeladen, über 2000 Videos produziert und hunderte Stunden live gestreamt. Dabei viel gelernt: Community-Aufbau, Live-Technik, Videoproduktion, Konstanz und Umgang mit Feedback. Die alten Videos später gelöscht, Fokus jetzt auf Tech-Content im Stil von Theo Browne
 
+## Video Archive – Theo Browne Era
+Nach über 2000 Gaming-Videos habe ich 15 Videos im Theo Browne Style probiert – Tech-Takes, schnell geschnitten, direkt auf den Punkt. Das Archiv liegt bewusst hier im Profil-Repo, nicht nur auf YouTube.
+
+**→ [`theo-browne-era-video-style/`](https://github.com/drosemann/drosemann/tree/main/theo-browne-era-video-style) – 15 Videos**
+
+Enthalten sind u.a. Cloud-Sicherheit, IT-Trends 2024, TikTok Drama USA, Warum Arc stirbt, Cloud-Gaming, KI-Agenten, World Labs 3D, Amazon Nova, China Open-Source KI, Ransomware NHS, OpenAI AGI, Uber Robotaxi Abu Dhabi und mehr.
+
+7 Videos musste ich komprimieren, weil Microsoft (ja, GitHub = Microsoft) geizig mit Storage ist – 25 MB Browser-Limit. Details im [`why-these-mp4-here.md`](https://github.com/drosemann/drosemann/blob/main/theo-browne-era-video-style/why-these-mp4-here.md).
+
+Aktuell gehe ich wieder zurück zur **Gaming Video Phase**. Die Tech-Era bleibt als Time Capsule hier.
+
 ## Projekte & Spielwiese
 - **ShadowUnity** – Minecraft-Server mit Fokus auf Community, Technik und Events. Keine Weltresets seit 2022, damit Spieler-Fortschritt erhalten bleibt. Eigene Infrastruktur auf shadowunity.de mit Forum und Gästebuch, aktuell liegt der Fokus bewusst auf dem Server selbst (play.shadowunity.de) statt auf vielen Modi. Gestartet mit CityBuild und Minigames, heute klar auf Qualität statt Quantität ausgerichtet.
 - **DMH Network** – Minecraft-Netzwerk vom 24.01.2025 bis 26.04.2025, gegründet mit Matti und Henry. Verlassen um mich voll auf die Ausbildung zu konzentrieren.
