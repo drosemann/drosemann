@@ -9,12 +9,12 @@ Ich lebe für **Technik, IT-Infrastruktur und künstliche Intelligenz**. Learnin
 ## Mein Stack
 *Das ist mein privater Stack für eigene Projekte – im Betrieb nutze ich den dort vorgegebenen Stack.*
 
-**Full-Stack:** `HTML` • `CSS` • `JavaScript` • `Java` • `PHP` • `Python`  
-**Infra & Server:** `Docker` • `Linux` • `NGINX` • `Apache` • `Proxmox` • `Velocity`  
-**Panels (viel Erfahrung):** `Pterodactyl` • `Coolify` – aktuell nutze ich aber lieber pure Docker für meine Services, weniger Overhead, mehr Kontrolle  
-**Datenbanken:** `MariaDB` – sehr viel Erfahrung im produktiven Einsatz • `Supabase` – Cloud und Self-Hosted ausgiebig getestet, möglicher Wechsel in Planung  
-**Tools & Services:** `Cloudflare` (DNS) • `HetrixTools` (Monitoring) • `Trello` + `Notion` (Projektmanagement für ShadowUnity)  
-**Client:** `Windows` – looking at you, Games Industry. Wechsel zu Linux geplant sobald der Anticheat-Support besser wird  
+**Full-Stack:** `HTML` • `CSS` • `JavaScript` • `Java` • `PHP` • `Python`
+**Infra & Server:** `Docker` • `Linux` • `NGINX` • `Apache` • `Proxmox` • `Velocity`
+**Panels (viel Erfahrung):** `Pterodactyl` • `Coolify` – aktuell nutze ich aber lieber pure Docker für meine Services, weniger Overhead, mehr Kontrolle
+**Datenbanken:** `MariaDB` – sehr viel Erfahrung im produktiven Einsatz • `Supabase` – Cloud und Self-Hosted ausgiebig getestet, möglicher Wechsel in Planung
+**Tools & Services:** `Cloudflare` (DNS) • `HetrixTools` (Monitoring) • `Trello` + `Notion` (Projektmanagement für ShadowUnity)
+**Client:** `Windows` – looking at you, Games Industry. Wechsel zu Linux geplant sobald der Anticheat-Support besser wird
 **Fokus:** `Cybersecurity` • `KI / AI` • `Cloud & Virtualisierung` • `Automation mit Python`
 
 Ich teste regelmäßig moderne Tools sobald sie erscheinen – early adopter aus Neugier.
@@ -40,8 +40,6 @@ Zwischendurch auch Web-Hoster wie **Vercel** und **Kinsta** getestet, aber nie a
 <details>
 <summary><b>🎮 Meine Minecraft Name History – von RTX-Laptop bis ausversehen</b></summary>
 
-> Jeder Name ist eine Phase:
-
 | # | Name | Datum | Story |
 | :--- | :--- | :--- | :--- |
 | 11 | **sewergratelifted** | 30.07.2026 | Ausversehen geändert weil MOJANG KEINE BESTÄTIGUNG FÜR NAMENSÄNDERUNGEN WILL. Inspiriert von YouTuber sewergratelifter |
@@ -60,18 +58,18 @@ Zwischendurch auch Web-Hoster wie **Vercel** und **Kinsta** getestet, aber nie a
 
 ## Erfahrung vor der Ausbildung
 - **3 Helpdesk-Praktika** – 2 Schulpraktika und 1 freiwilliges Praktikum, alle unbezahlt aus Freude am Werk
-- **YouTube & Streaming** – über mehrere Jahre Gaming-Content konsequent hochgeladen, über 2000 Videos produziert und hunderte Stunden live gestreamt. Dabei viel gelernt: Community-Aufbau, Live-Technik, Videoproduktion, Konstanz und Umgang mit Feedback. Die alten Videos später gelöscht, Fokus jetzt auf Tech-Content im Stil von Theo Browne
+- **YouTube & Streaming** – über mehrere Jahre Gaming-Content konsequent hochgeladen, über 2000 Videos produziert und hunderte Stunden live gestreamt. Dabei viel gelernt: Community-Aufbau, Live-Technik, Videoproduktion, Konstanz und Umgang mit Feedback.
 
 ## Video Archive – Theo Browne Era
-Nach über 2000 Gaming-Videos habe ich 15 Videos im Theo Browne Style probiert – Tech-Takes, schnell geschnitten, direkt auf den Punkt. Das Archiv liegt bewusst hier im Profil-Repo, nicht nur auf YouTube.
+Nach über 2000 Gaming-Videos habe ich 15 Videos im Theo Browne Style probiert – Tech-Takes, schnell geschnitten, direkt auf den Punkt.
+
+Ich habe sie von YouTube runtergenommen und bewusst hier im Profil-Repo archiviert. Nicht als Ende, sondern um in Ruhe zu evaluieren, welche Art von Videos ich in Zukunft machen will – wieder Theo Browne Style, Tech Rants oder doch Gaming.
 
 **→ [`theo-browne-era-video-style/`](https://github.com/drosemann/drosemann/tree/main/theo-browne-era-video-style) – 15 Videos**
 
 Enthalten sind u.a. Cloud-Sicherheit, IT-Trends 2024, TikTok Drama USA, Warum Arc stirbt, Cloud-Gaming, KI-Agenten, World Labs 3D, Amazon Nova, China Open-Source KI, Ransomware NHS, OpenAI AGI, Uber Robotaxi Abu Dhabi und mehr.
 
 7 Videos musste ich komprimieren, weil Microsoft (ja, GitHub = Microsoft) geizig mit Storage ist – 25 MB Browser-Limit. Details im [`why-these-mp4-here.md`](https://github.com/drosemann/drosemann/blob/main/theo-browne-era-video-style/why-these-mp4-here.md).
-
-Aktuell gehe ich wieder zurück zur **Gaming Video Phase**. Die Tech-Era bleibt als Time Capsule hier.
 
 ## Projekte & Spielwiese
 - **ShadowUnity** – Minecraft-Server mit Fokus auf Community, Technik und Events. Keine Weltresets seit 2022, damit Spieler-Fortschritt erhalten bleibt. Eigene Infrastruktur auf shadowunity.de mit Forum und Gästebuch, aktuell liegt der Fokus bewusst auf dem Server selbst (play.shadowunity.de) statt auf vielen Modi. Gestartet mit CityBuild und Minigames, heute klar auf Qualität statt Quantität ausgerichtet.
@@ -97,7 +95,7 @@ Alle Domains miete ich bei netcup.
 - Wissen teilen – eigener YouTube-Kanal zu IT & Hosting ist in Planung
 
 ## Let's build
-Ich bin offen für Collabs in **IT, KI, Hosting, Gaming und Softwaredev**.  
+Ich bin offen für Collabs in **IT, KI, Hosting, Gaming und Softwaredev**.
 Wenn du Bock hast, was Echtes zu bauen – meld dich!
 
 In der Umgebung von Frankfurt am Main
