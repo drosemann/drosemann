@@ -73,6 +73,21 @@ Enthalten sind u.a. Cloud-Sicherheit, IT-Trends 2024, TikTok Drama USA, Warum Ar
 
 ## Projekte & Spielwiese
 - **ShadowUnity** – Minecraft-Server mit Fokus auf Community, Technik und Events. Keine Weltresets seit 2022, damit Spieler-Fortschritt erhalten bleibt. Eigene Infrastruktur auf shadowunity.de mit Forum und Gästebuch, aktuell liegt der Fokus bewusst auf dem Server selbst (play.shadowunity.de) statt auf vielen Modi. Gestartet mit CityBuild und Minigames, heute klar auf Qualität statt Quantität ausgerichtet.
+
+  <details>
+  <summary>📜 Name History von ShadowUnity</summary>
+
+  Der Server hieß nicht immer ShadowUnity – das ist die Evolution seit 2018:
+
+    1.  **GrieferPrinz** – noch ein Pocket Edition Server. Inspiriert von GrieferKing (kleinerer PE Server) und GrieferGames
+    2.  **MelonenGames** – erster Java Server. Dachte es klingt cool, war eigentlich nur CityBuild damals
+    3.  **DiamantSucht** – einfach weil ich ingame früher so hieß
+    4.  **DanielArmy** – persönliche Brand Phase
+    5.  **MineRush** – inspiriert von "MineSucht" Minigames Netzwerk von Abge und FloTastisch
+    6.  **ShadowUnity** – finaler Name: ShadowFox + Community = Shadow + Unity. Seitdem stabil.
+
+  </details>
+
 - **DMH Network** – Minecraft-Netzwerk vom 24.01.2025 bis 26.04.2025, gegründet mit Matti und Henry. Verlassen um mich voll auf die Ausbildung zu konzentrieren.
 - **SpigotMC Plugins** – mehrere kostenlose Plugins veröffentlicht unter meinem alten Alias MineHub: https://www.spigotmc.org/resources/authors/minehub.1035036/
 - **Emergency Response: Crestwood County** – Roblox-Roleplay in Entwicklung seit 10.09.2023. Langzeitprojekt mit Rollen wie Polizei, SWAT, Paramedic und Feuerwehr. Geplant sind Wanted-System, Raubüberfälle, Fuel- und Fahrzeugsystem sowie dynamisches Wetter.
