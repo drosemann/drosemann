@@ -107,6 +107,7 @@ Alle Domains miete ich bei netcup.
 
 - Gründung eines IT-Unternehmens für **Hosting, Infrastruktur & IT-Beratung**
 - Skalierbare Cloud-Lösungen statt 0815-Rootserver
+- Altes Haus kaufen und smart auf die günstige Weise machen – alles dokumentieren auf YouTube
 - Wissen teilen – eigener YouTube-Kanal zu IT & Hosting ist in Planung
 
 ## Let's build
