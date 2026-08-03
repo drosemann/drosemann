@@ -1,6 +1,6 @@
 # Hey, ich bin Daniel!
 
-**Dev aus Leidenschaft | Umgebung Frankfurt am Main | FISI-Azubi 1. Lehrjahr | Hosting-Nerd & KI-Bastler**
+**Dev aus Leidenschaft | Umgebung Frankfurt am Main | FISI-Azubi 2. Lehrjahr | Hosting-Nerd & KI-Bastler**
 
 Ich lebe für **Technik, IT-Infrastruktur und künstliche Intelligenz**. Learning by Doing ist mein Ding – ich baue lieber Server als Slides. Aktiv in der Minecraft- und Hosting-Community seit Jahren.
 
@@ -20,7 +20,7 @@ Ich lebe für **Technik, IT-Infrastruktur und künstliche Intelligenz**. Learnin
 Ich teste regelmäßig moderne Tools sobald sie erscheinen – early adopter aus Neugier.
 
 ## Aktuell
-- Ausbildung zum **Fachinformatiker für Systemintegration** (1. Lehrjahr)
+- Ausbildung zum **Fachinformatiker für Systemintegration** (2. Lehrjahr)
 - Betreibe meinen Minecraft-Server **ShadowUnity** (seit 22.04.2018)
 
 ## Mein Weg: Vom Free-Hoster zur eigenen KVM
