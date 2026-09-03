@@ -38,10 +38,11 @@ Zwischendurch auch Web-Hoster wie **Vercel** und **Kinsta** getestet, aber nie a
 Über ein paar Jahre habe ich teilweise 3-4 Server parallel administriert (2 Rootserver + 1 Gameserver als Dev-, Failover- und Main-System). Am Anfang nur einer aus Budgetgründen, heute bewusst nur einer aus Effizienzgründen.
 
 <details>
-<summary><b>🎮 Meine Minecraft Name History – von RTX-Laptop bis ausversehen</b></summary>
+<summary><b>🎮 Meine Minecraft Name History – von RTX-Laptop bis Tippfehler</b></summary>
 
 | # | Name | Datum | Story |
 | :--- | :--- | :--- | :--- |
+| 12 | **d5_nel** | 03.09.2026 | Wollte `sewergratelifted` ändern weil es mir nicht gefallen hat und eh ausversehen war – und hab jetzt ausversehen `d5_nel` MIT RECHTSCHREIBFEHLER genommen, weil auf der Handy-Seite bei "Enter" direkt der Name genommen wird |
 | 11 | **sewergratelifted** | 30.07.2026 | Ausversehen geändert weil MOJANG KEINE BESTÄTIGUNG FÜR NAMENSÄNDERUNGEN WILL. Inspiriert von YouTuber sewergratelifter |
 | 10 | **DaaanielTV** | 26.06.2022 | Mein fester, jahrelanger Name den ich überall genutzt habe – ~4 Jahre |
 | 9 | **ShadowFoxStream** | 27.04.2022 | ShadowFox angepasst, weil ich früher viel gestreamt habe lol |
