@@ -72,15 +72,15 @@ Zwischendurch **Vercel** und **Kinsta** getestet – beste Dev-Experience mit Ed
 
 ### 🤖 4. ai-chat-webui – Lokal statt Cloud
 **Privacy-focused Ollama WebUI – pure JavaScript, kein Framework**
-> First commit `bc38708` am 14.03.2025, hieß noch `super-fast-ai-chat`. Früher dachte ich: "Lieber meinen $5 VPS auf 100% CPU haben als ein paar Cent an Inference Provider zu zahlen". Mittlerweile würde ich das meiste in der Cloud machen und nur lokale 4B Modelle (statt teurem VPS) für wirklich private Dinge nutzen. Genau dafür: `index.html` öffnen, `http://localhost:11434` – alles bleibt lokal.
+> First commit `bc38708` am 14.03.2025, hieß noch `super-fast-ai-chat`. Früher dachte ich: "Lieber meinen $5 VPS auf 100% CPU haben als ein paar Cent an Inference Provider zu zahlen". Mittlerweile würde ich das meiste in der Cloud machen und nur lokale 4B Modelle für wirklich private Dinge nutzen. Genau dafür: `index.html` öffnen, `http://localhost:11434` – alles bleibt lokal.
 
 ### 🎮 5. stranded-horizons – Mein Browser-Game Traum
 **Vanilla HTML/CSS/JS Survival Game – einziges Projekt mit Vercel Auto-Deploys**
-> First commit `3a668c7` am 08.04.2025 – 18 files, `PROJECT-IDEA` war noch ein großes Multiplayer Survival RPG mit Character Creation. Ich wollte schon immer ein (Browser) Spiel (RPG vor allem), hatte nie die Zeit (jetzt noch weniger um kreativ zu sein). Einziges Repo mit Vercel Auto-Deploys – Free Tier wird um Weltjahre nicht genutzt, nur Hater die nie was probieren sagen das um nie etwas profen zu müssen. Nächstes Experiment: "Loop Engineering" – 3 KVM VMs (Worker/Production/Management) mit 3 OpenCode Agents die parallel an Audio/UI, Gameplay und Balancing schrauben, Puppeteer Tests, Dashboard.
+> First commit `3a668c7` am 08.04.2025 – 18 files, `PROJECT-IDEA` war noch ein großes Multiplayer Survival RPG. Ich wollte schon immer ein (Browser) Spiel (RPG vor allem), hatte nie die Zeit (jetzt noch weniger um kreativ zu sein). Einziges Repo mit Vercel Auto-Deploys – Free Tier wird um Weltjahre nicht genutzt, nur Hater die nie was probieren sagen das um nie etwas profen zu müssen. Nächstes Experiment: "Loop Engineering" – 3 KVM VMs (Worker/Production/Management) mit 3 OpenCode Agents die parallel an Audio/UI, Gameplay und Balancing schrauben.
 
 ### 🖥️ 6. cooperating-screen – Nordee Urlaubsidee
 **Cross-Device Screen Sharing – Flutter, WebRTC, Node.js Signaling**
-> First commit `411edc7` am 15.01 – 3 files. Die Idee kam vor etlichen Jahren im Sommerurlaub auf der Insel Nordee mit meiner Schwester. Sie wollte Marketing Head werden und ich Dev/Infra/Implementierer/Sklave/etc. War zur Zeit als wir alle noch GPT 3.5 unlimited genutzt haben (crazy, heutzutage hat OpenAI Limit von 512 MB Speicher für Bilder/Dateien). Hatte einen Chat, finde ihn nicht mehr, lokale Kopie auch nicht – aber ein "Gemini Gem" hat alle meine ChatGPT Chats. Als OpenAI Codex gut genug und free wurde (zu geizig für $20) habe ich die Idee einfach in Codex eingegeben. Kurzzeitig hieß es mal "LinkScreen – Cross-Device Sharing", aber zurück umbenannt weil LinkScreen nach AI-generated Name klingt. Kein stumpfes Teams-Screensharing, sondern Multi-User Control auf App-Level.
+> First commit `411edc7` am 15.01 – 3 files. Die Idee kam vor etlichen Jahren im Sommerurlaub auf der Insel Nordee mit meiner Schwester. Sie wollte Marketing Head werden und ich Dev/Infra/Implementierer/Sklave/etc. War zur Zeit als wir alle noch GPT 3.5 unlimited genutzt haben. Hatte einen Chat, finde ihn nicht mehr, lokale Kopie auch nicht – aber ein "Gemini Gem" hat alle meine ChatGPT Chats. Als OpenAI Codex gut genug und free wurde (zu geizig für $20) habe ich die Idee einfach in Codex eingegeben. Kurzzeitig hieß es mal "LinkScreen – Cross-Device Sharing", aber zurück umbenannt weil LinkScreen nach AI-generated Name klingt.
 
 ## Weitere Projekte & Spielwiese
 - **ShadowUnity** – play.shadowunity.de – Kein Reset seit 2022. Eigene Infra auf shadowunity.de mit Forum & Gästebuch. Fokus auf Qualität statt Quantität.
@@ -104,17 +104,22 @@ Zwischendurch **Vercel** und **Kinsta** getestet – beste Dev-Experience mit Ed
 - **Hardware-Hacking & KI-Sicherheit**
 
 ## Video Archive – Theo Browne Era
-Nach über 2000 Gaming-Videos 15 Videos im Theo Browne Style – Tech-Takes schnell geschnitten. Offline genommen und hier archiviert um zu evaluieren was kommt.
+Nach über 2000 Gaming-Videos 15 Videos im Theo Browne Style – Tech-Takes schnell geschnitten. Offline genommen und hier archiviert.
 
 **→ [`theo-browne-era-video-style/`](https://github.com/drosemann/drosemann/tree/main/theo-browne-era-video-style) – 15 Videos**
-
-Enthalten: Cloud-Sicherheit, IT-Trends 2024, TikTok Drama USA, Warum Arc stirbt, Cloud-Gaming, KI-Agenten, World Labs 3D, Amazon Nova, China Open-Source KI, Ransomware NHS, OpenAI AGI, Uber Robotaxi Abu Dhabi etc.
 
 ## Eigene Domains
 Alle bei netcup:
 - **d5niel.de** – Portfolio (zukünftig mit ForgeCMS)
 - **shadowunity.de** – Minecraft Server
 - **hosting-club.de** – ehemaliges Hosting-Forum, nach 1 Jahr beendet für Fokus auf Ausbildung
+
+## Storage & Cloud – Der OneDrive Plot Twist
+- **OneDrive 365 Basic 100 GB für 2€/mo** – nach Jahren Überzeugung Microsoft keinen Cent zu geben, hat mich Windows Integration + Samsung Integration geschlagen ):
+
+  Speed ist mir scheiß egal, wenn OneDrive irgendwann ein 500 GB Tier für 1-2€/mo bekommt mit "Cold Archive" (sehr langsamen/alten HDDs) bin ich der erste Kunde XD – ich werde vermutlich auch all meine Fotos im OneDrive speichern, 100 GB reichen mir locker.
+
+  Das behinderte ist, ich hätte OneDrive 365 Basic nichtmal gebraucht, ich hatte nie mehr als 2-3 GB verwendet lol, aber jetzt lade ich einfach 30 GB mal hoch um zu sagen "ich nutze es"
 
 ## Meine 5-Jahres-Vision
 > Nicht nur irgendein Job – eigenes Ding aufbauen.
