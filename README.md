@@ -30,27 +30,6 @@ Ich lebe für **Technik, IT-Infrastruktur und künstliche Intelligenz**. Learnin
 
 Zwischendurch **Vercel** und **Kinsta** getestet – beste Dev-Experience mit Edge + CDN, aber Self-Hosting langfristig günstiger. Teilweise 3-4 Server parallel als Dev-, Failover- und Main-System betrieben.
 
-<details>
-<summary><b>🎮 Meine Minecraft Name History – von RTX-Laptop bis final d5nielDE</b></summary>
-
-| # | Name | Datum | Story |
-| :--- | :--- | :--- | :--- |
-| 13 | **d5nielDE** | 11.10.2026 | Finaler Name – d5niel und ShadowFox waren belegt, deshalb d5nielDE. Fixt den Tippfehler aus d5_nel und passt 1:1 zu d5niel.de |
-| 12 | **d5_nel** | 03.09.2026 | Wollte `sewergratelifted` ändern weil es mir nicht gefallen hat und eh ausversehen war – und hab jetzt ausversehen `d5_nel` MIT RECHTSCHREIBFEHLER genommen, weil auf der Handy-Seite bei "Enter" direkt der Name genommen wird |
-| 11 | **sewergratelifted** | 30.07.2026 | Ausversehen geändert weil MOJANG KEINE BESTÄTIGUNG FÜR NAMENSÄNDERUNGEN WILL. Inspiriert von YouTuber sewergratelifter |
-| 10 | **DaaanielTV** | 26.06.2022 | Mein fester, jahrelanger Name den ich überall genutzt habe – ~4 Jahre |
-| 9 | **ShadowFoxStream** | 27.04.2022 | ShadowFox angepasst, weil ich früher viel gestreamt habe lol |
-| 8 | **EinfachDanielYT** | 17.03.2022 | YouTube-Phase, imitiert von "EinfachEmmy" |
-| 7 | **ShadowFoxxxx** | 24.05.2021 | ShadowFox ohne Nummern, einfach cooler |
-| 6 | **DiamantSucht** | 23.04.2021 | Meine GrieferGames-Phase, wollte ein Casino machen |
-| 5 | **GrafDiamant** | 20.03.2021 | GrieferGames-Phase, wollte "GrafBonze" imitieren – reicher Spieler aus AbgegrieftHD Videos |
-| 4 | **VulkanBot** | 18.02.2021 | GrieferGames-Phase, wollte einen Item-Verkauf-Bot aufmachen |
-| 3 | **ShadowFox20201YT** | 01.10.2020 | Anfang meiner YouTube-Phase – daher kommt **ShadowUnity** = ShadowFox + Community |
-| 2 | **HanauHoheTanne** | 27.08.2020 | Ehemaligen Wohnort einfach gedoxxt weil dummer Jugendlicher lol |
-| 1 | **Raytracer2020** | 2020 | Mein Laptop hat eine RTX GPU – musste man ja zeigen |
-
-</details>
-
 ## Erfahrung vor der Ausbildung
 - **3 Helpdesk-Praktika** – 2 Schulpraktika und 1 freiwilliges Praktikum, alle unbezahlt aus Freude am Werk
 - **YouTube & Streaming** – über 2000 Videos produziert, hunderte Stunden live gestreamt. Community-Aufbau, Live-Technik, Videoproduktion, Konstanz und Umgang mit Feedback.
