@@ -89,12 +89,14 @@ Zwischendurch **Vercel** und **Kinsta** getestet – beste Dev-Experience mit Ed
 - **ShadowUnity** – play.shadowunity.de – Kein Reset seit 2022.
   <details>
   <summary>📜 Name History von ShadowUnity</summary>
+
     1. **GrieferPrinz** – Pocket Edition, inspiriert von GrieferKing + GrieferGames
     2. **MelonenGames** – erster Java Server, nur CityBuild
     3. **DiamantSucht** – weil ich ingame so hieß
     4. **DanielArmy** – persönliche Brand Phase
     5. **MineRush** – inspiriert von MineSucht von Abge & FloTastisch
     6. **ShadowUnity** – ShadowFox + Community = stabil seitdem.
+
   </details>
 - **DMH Network** – 24.01.2025 bis 26.04.2025 mit Matti und Henry
 - **SpigotMC Plugins** – unter altem Alias MineHub: https://www.spigotmc.org/resources/authors/minehub.1035036/
