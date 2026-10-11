@@ -31,28 +31,29 @@ Ich lebe für **Technik, IT-Infrastruktur und künstliche Intelligenz**. Learnin
 Zwischendurch **Vercel** und **Kinsta** getestet – beste Dev-Experience mit Edge + CDN, aber Self-Hosting langfristig günstiger. Teilweise 3-4 Server parallel als Dev-, Failover- und Main-System betrieben.
 
 <details>
-<summary><b>🎮 Meine Minecraft Name History – von RTX-Laptop bis Tippfehler</b></summary>
+<summary><b>🎮 Meine Minecraft Name History – von RTX-Laptop bis final d5nielDE</b></summary>
 
 | # | Name | Datum | Story |
 | :--- | :--- | :--- | :--- |
+| 13 | **d5nielDE** | 11.10.2026 | Finaler Name – d5niel und ShadowFox waren belegt, deshalb d5nielDE. Fixt den Tippfehler aus d5_nel und passt 1:1 zu d5niel.de |
 | 12 | **d5_nel** | 03.09.2026 | Wollte `sewergratelifted` ändern weil es mir nicht gefallen hat und eh ausversehen war – und hab jetzt ausversehen `d5_nel` MIT RECHTSCHREIBFEHLER genommen, weil auf der Handy-Seite bei "Enter" direkt der Name genommen wird |
 | 11 | **sewergratelifted** | 30.07.2026 | Ausversehen geändert weil MOJANG KEINE BESTÄTIGUNG FÜR NAMENSÄNDERUNGEN WILL. Inspiriert von YouTuber sewergratelifter |
-| 10 | **DaaanielTV** | 26.06.2022 | Mein fester, jahrelanger Name – ~4 Jahre |
+| 10 | **DaaanielTV** | 26.06.2022 | Mein fester, jahrelanger Name den ich überall genutzt habe – ~4 Jahre |
 | 9 | **ShadowFoxStream** | 27.04.2022 | ShadowFox angepasst, weil ich früher viel gestreamt habe lol |
 | 8 | **EinfachDanielYT** | 17.03.2022 | YouTube-Phase, imitiert von "EinfachEmmy" |
 | 7 | **ShadowFoxxxx** | 24.05.2021 | ShadowFox ohne Nummern, einfach cooler |
-| 6 | **DiamantSucht** | 23.04.2021 | GrieferGames-Phase, wollte ein Casino machen |
-| 5 | **GrafDiamant** | 20.03.2021 | GrieferGames-Phase, wollte "GrafBonze" imitieren |
+| 6 | **DiamantSucht** | 23.04.2021 | Meine GrieferGames-Phase, wollte ein Casino machen |
+| 5 | **GrafDiamant** | 20.03.2021 | GrieferGames-Phase, wollte "GrafBonze" imitieren – reicher Spieler aus AbgegrieftHD Videos |
 | 4 | **VulkanBot** | 18.02.2021 | GrieferGames-Phase, wollte einen Item-Verkauf-Bot aufmachen |
-| 3 | **ShadowFox20201YT** | 01.10.2020 | Anfang meiner YouTube-Phase – daher kommt **ShadowUnity** |
-| 2 | **HanauHoheTanne** | 27.08.2020 | Wohnort gedoxxt weil dummer Jugendlicher lol |
+| 3 | **ShadowFox20201YT** | 01.10.2020 | Anfang meiner YouTube-Phase – daher kommt **ShadowUnity** = ShadowFox + Community |
+| 2 | **HanauHoheTanne** | 27.08.2020 | Ehemaligen Wohnort einfach gedoxxt weil dummer Jugendlicher lol |
 | 1 | **Raytracer2020** | 2020 | Mein Laptop hat eine RTX GPU – musste man ja zeigen |
 
 </details>
 
 ## Erfahrung vor der Ausbildung
-- **3 Helpdesk-Praktika** – 2 Schule + 1 freiwillig, unbezahlt aus Freude am Werk
-- **YouTube & Streaming** – über 2000 Videos produziert, hunderte Stunden live gestreamt. Community-Aufbau, Live-Technik, Konstanz gelernt.
+- **3 Helpdesk-Praktika** – 2 Schulpraktika und 1 freiwilliges Praktikum, alle unbezahlt aus Freude am Werk
+- **YouTube & Streaming** – über 2000 Videos produziert, hunderte Stunden live gestreamt. Community-Aufbau, Live-Technik, Videoproduktion, Konstanz und Umgang mit Feedback.
 
 ## Open Source – Meine 7 aktiven Repos
 
@@ -80,36 +81,25 @@ Zwischendurch **Vercel** und **Kinsta** getestet – beste Dev-Experience mit Ed
 **Cross-Device Screen Sharing – Flutter, WebRTC, Node.js**
 > First commit `411edc7` am 15.01 – 3 files. Idee kam im Sommerurlaub auf Nordee mit meiner Schwester. Sie Marketing Head, ich Dev/Infra/Sklave. Zeit von GPT 3.5 unlimited. Später mit Codex generiert, kurz "LinkScreen" genannt, zurück umbenannt weil nach AI-Name klingt.
 
-### 📄 7. ed-docs – Offline-First Docs mit ed/vi Quirks [NEU]
+### 📄 7. ed-docs – Offline-First Docs mit ed/vi Quirks
 **React TUI, Vite, offline-first writing workspace**
-> An offline-first writing workspace for people who like documents simple and commands explicit. `i`, `a`, `Esc`, `:w` und das gelegentliche `?`. Early MVP – kein Google Docs, Microsoft 365 oder Notion Clone. Kein Account, kein Server, kein Sync. `:w` schreibt in Browser Storage, Export als .md ist das Backup. Service Worker cached App Shell für offline.
-
-**History:** Startet eigentlich 2013 mit `Add Upstream ED` von gregnietsky. Dann May 2026 komplett modernisiert via Codex: `tidy-up-repository-for-open-source-use`, `redesign-editor-with-modern-tui-using-react`, `remove-everything-except-react-tui`. Am 11.10.2026 Rebrand `Synapse` → `ed-docs` + `Restore original GNU GPL license`.
-
-**Ziel:** Soll mal ~80% feature parity mit Word Online / Google Docs haben wenn genug Token Budget da ist – aber mit lustigen ed/vi Quirks. Erstmal: `new [title]`, `e <title>`, `w`, `q`, `wq`, `help`, Import/Export .md. Future: bessere Portability, optionaler secure sync für kleine Firmen, conflict copies statt silent overwrite, später optional shared editing.
-
-```bash
-cd web
-npm install
-npm run dev
-npm run typecheck && npm run build && npm run preview
-```
+> An offline-first workspace für Leute die Dokumente simpel und Commands explizit mögen. `i`, `a`, `Esc`, `:w`. Kein Google Docs Clone, kein Account, kein Server. Startete 2013 als Upstream ED, May 2026 via Codex modernisiert (React TUI), 11.10.2026 Rebrand Synapse → ed-docs. Ziel: ~80% Parity mit Word Online / Google Docs mit lustigen ed/vi Quirks wenn genug Token Budget.
 
 ## Weitere Projekte & Spielwiese
 - **ShadowUnity** – play.shadowunity.de – Kein Reset seit 2022.
   <details>
   <summary>📜 Name History von ShadowUnity</summary>
-  1. **GrieferPrinz** – Pocket Edition
-  2. **MelonenGames** – erster Java Server
-  3. **DiamantSucht**
-  4. **DanielArmy**
-  5. **MineRush** – inspiriert von MineSucht
-  6. **ShadowUnity** – ShadowFox + Community
+    1. **GrieferPrinz** – Pocket Edition, inspiriert von GrieferKing + GrieferGames
+    2. **MelonenGames** – erster Java Server, nur CityBuild
+    3. **DiamantSucht** – weil ich ingame so hieß
+    4. **DanielArmy** – persönliche Brand Phase
+    5. **MineRush** – inspiriert von MineSucht von Abge & FloTastisch
+    6. **ShadowUnity** – ShadowFox + Community = stabil seitdem.
   </details>
 - **DMH Network** – 24.01.2025 bis 26.04.2025 mit Matti und Henry
-- **SpigotMC Plugins** – unter altem Alias MineHub
+- **SpigotMC Plugins** – unter altem Alias MineHub: https://www.spigotmc.org/resources/authors/minehub.1035036/
 - **Emergency Response: Crestwood County** – Roblox-Roleplay seit 10.09.2023
-- **Raspberry Pi KI Pflanzen-Überwachung**
+- **Raspberry Pi KI Pflanzen-Überwachung** – Sensorik + AI
 - **Hardware-Hacking & KI-Sicherheit**
 
 ## Video Archive – Theo Browne Era
