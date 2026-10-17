@@ -34,37 +34,7 @@ Zwischendurch **Vercel** und **Kinsta** getestet – beste Dev-Experience mit Ed
 - **3 Helpdesk-Praktika** – 2 Schulpraktika und 1 freiwilliges Praktikum, alle unbezahlt aus Freude am Werk
 - **YouTube & Streaming** – über 2000 Videos produziert, hunderte Stunden live gestreamt. Community-Aufbau, Live-Technik, Videoproduktion, Konstanz und Umgang mit Feedback.
 
-## Open Source – Meine 7 aktiven Repos
-
-### 🚀 1. infra-pilot – Basis für meine Hosting-Firma
-**Learning project: VPS management CLI + Dashboard** | TypeScript, Python, React/Express, Docker
-> Ursprünglich `dmh-hosting` – first commit am 09.03.2025 nur mit `README.md` `# dmh-hosting`. Entstanden aus dem DMH Network. Wir wollten dann doch kein Public Hosting machen – zu viele Probleme mit Abuse, Cyberkriminellen, Fraud. Gepivotet zu einem internen Tool um eigene Infra zu managen. Weg von Pterodactyl/Coolify, hin zu purem Docker. Das ist heute die Basis für meine geplante IT-Firma.
-
-### 🧱 2. streuland – Mein Plot-System für ShadowUnity
-**Paper Plugin Java/Maven für Paper 1.16.5**
-> First commit `bfbadcb` am 01.02.2025 – 28 files. Entstanden weil ich ein Plotsystem machen wollte und "CB Nature" auf GrieferGames mochte, aber der CityBuild ziemlich tot war und nur für AFK Farmen genutzt wurde. Ich wusste, man kann Vanilla World-Gen mit besseren Plots als Standard-Grid verwenden.
-
-### 📝 3. forgecms – Weil ich immer bloggen wollte
-**Flask + MariaDB Blog/CMS mit Docker**
-> Ich wollte immer mal einen Blog machen, aber hatte keine Zeit und kein Impressum für eine Webseite (in DE = Abmahn-Risiko). Deshalb nie live gegangen. Bietet Auth, Draft/Scheduled/Published Workflow, Markdown, Media Uploads.
-
-### 🤖 4. ai-chat-webui – Lokal statt Cloud
-**Privacy-focused Ollama WebUI – pure JavaScript**
-> First commit `bc38708` am 14.03.2025, hieß noch `super-fast-ai-chat`. Früher dachte ich: "Lieber meinen $5 VPS auf 100% CPU haben als ein paar Cent an Inference Provider zu zahlen". Heute Cloud + lokale 4B Modelle nur für wirklich private Dinge.
-
-### 🎮 5. stranded-horizons – Mein Browser-Game Traum
-**Vanilla HTML/CSS/JS Survival Game – einziges Projekt mit Vercel Auto-Deploys**
-> First commit `3a668c7` am 08.04.2025 – 18 files. Ich wollte schon immer ein Browser Spiel (RPG vor allem), hatte nie die Zeit. Einziges Repo mit Vercel Auto-Deploys. Nächstes Experiment: "Loop Engineering" – 3 KVM VMs mit Swarm Agents.
-
-### 🖥️ 6. cooperating-screen – Nordee Urlaubsidee
-**Cross-Device Screen Sharing – Flutter, WebRTC, Node.js**
-> First commit `411edc7` am 15.01 – 3 files. Idee kam im Sommerurlaub auf Nordee mit meiner Schwester. Sie Marketing Head, ich Dev/Infra/Sklave. Zeit von GPT 3.5 unlimited. Später mit Codex generiert, kurz "LinkScreen" genannt, zurück umbenannt weil nach AI-Name klingt.
-
-### 📄 7. ed-docs – Offline-First Docs mit ed/vi Quirks
-**React TUI, Vite, offline-first writing workspace**
-> An offline-first workspace für Leute die Dokumente simpel und Commands explizit mögen. `i`, `a`, `Esc`, `:w`. Kein Google Docs Clone, kein Account, kein Server. Startete 2013 als Upstream ED, May 2026 via Codex modernisiert (React TUI), 11.10.2026 Rebrand Synapse → ed-docs. Ziel: ~80% Parity mit Word Online / Google Docs mit lustigen ed/vi Quirks wenn genug Token Budget.
-
-## Weitere Projekte & Spielwiese
+## Projekte & Spielwiese
 - **ShadowUnity** – play.shadowunity.de – Kein Reset seit 2022.
   <details>
   <summary>📜 Name History von ShadowUnity</summary>
