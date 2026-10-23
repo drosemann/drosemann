@@ -25,6 +25,7 @@ Since 10 September 2023 I've been part of Emergency Response: Crestwood County, 
 I also built a Raspberry Pi AI plant monitoring project with sensors and AI, and I spend time on hardware hacking and AI security.
 After over 2,000 gaming videos I made 15 videos in the Theo Browne style, archived at https://github.com/drosemann/drosemann/tree/main/theo-browne-era-video-style
 All of my domains are with netcup: d5niel.de for my portfolio, which will run on ForgeCMS in the future, shadowunity.de for my Minecraft server, and hosting-club.de, a former hosting forum.
+Over the years every hosting era also produced a forum or blog attempt, ten in total, and I finally merged all of them into one codebase: forum-for-nerds, a self-hosted Next.js forum plus blog running on pure Docker with SQLite for dev and MariaDB in prod. Ten dead forums walked in, one nerd forum walked out.
 For storage I ended up with OneDrive 365 Basic with 100 GB for 2 euros a month, after years of being convinced I'd never give Microsoft a cent, until the Windows and Samsung integration won me over.
 Speed doesn't matter much to me, and if OneDrive ever offers a 500 GB cold archive tier on very slow old hard drives for one or two euros a month, I'd be the first customer, and I'd probably store all my photos there too since 100 GB is easily enough for me.
 I never actually needed it, since I never used more than two or three GB, but now I just upload 30 GB so I can say I use it.
